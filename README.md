@@ -1,3 +1,5 @@
 # website-testing
-<p>just me figuring out how to host something on github.</p>
 https://aark07.github.io/website-testing/
+<p>just me figuring out how to host something on github.</p>
+<p>(will wok more on the site when I have the time)</p>
+
